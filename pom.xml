@@ -96,7 +96,16 @@
 	<distributionManagement>
 	
 	    <repository>
-	      
+	      <id>nexus</id>
+	      <name>Netxperts Technologies Releases Nexus Repository</name>
+	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
+	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	   		    
 	    </repository>
 	    
 	    <snapshotRepository>
