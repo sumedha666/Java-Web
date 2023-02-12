@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Netxperts Solutions. Colombo,Srilanka </h1>
+<h1 align="center">Welcome to Netxperts (Pvt0 Ltd. Colombo,Srilanka </h1>
 <h1 align="center"> Netxperts Devops Solutions- Very Good Training center for DevOps with AWS in Colombo Srilanka, Singapore and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
@@ -38,7 +38,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+94 74 191 89 21
 		info@netxpertsolutions.com
 		<br>
-		<a href="mailto:info@netxpertsolutions.com">Mail to Mithun Technologies</a>
+		<a href="mailto:info@netxpertsolutions.com">Mail to NetXperts Technologies</a>
 	</span>
 </div>
 <hr>
