@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Netxperts (Pvt0 Ltd. Colombo,Srilanka </h1>
+<h1 align="center">Welcome to Netxperts (Pvt) Ltd. Colombo,Srilanka </h1>
 <h1 align="center"> Netxperts Devops Solutions- Very Good Training center for DevOps with AWS in Colombo Srilanka, Singapore and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
