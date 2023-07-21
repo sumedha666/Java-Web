@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://3.94.88.243:8081/repository/netxperts_Release/</url>
+	      <url>http://18.212.89.253:9001/repository/newrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.94.88.243:8081/repository/netxperts_Snapshot/</url>
+	      <url>http://18.212.89.253:9001/repository/maven-snapshots</url>
 	   	   
 	    	   
 	    </snapshotRepository>
