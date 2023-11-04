@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://18.212.89.253:9001/repository/newrelease/</url>
+	      <url>http://54.90.30.173:8081/repository/newjavarepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.212.89.253:9001/repository/maven-snapshots</url>
+	      <url>http://54.90.30.173:8081/repository/newjavarepo-snapshot/</url>
 	   	   
 	    	   
 	    </snapshotRepository>
