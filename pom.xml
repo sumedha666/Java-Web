@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Releases Nexus Repository</name>
-	      <url>http://54.160.96.33:8081/repository/javaprorelease/</url>
+	      <url>http://18.234.120.70:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Netxperts Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.160.96.33:8081/repository/javaprorepo_Snapshot/</url>
+	      <url>http://18.234.120.70:8081/repository/mavenrepo-snapshot/</url>
 	   	   
 	    	   
 	    </snapshotRepository>
